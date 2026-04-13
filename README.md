@@ -42,6 +42,18 @@ The datasets provided in this repository are compatible with this reconstruction
 
 ---
 
+## Reconstruction Parameters
+
+The following parameters were used for digital hologram reconstruction:
+
+- Pixel size (dxy): 3.75 µm  
+- Objective magnification (MO): 40×  
+- Illumination wavelength (λ): 633 nm  
+
+These parameters correspond to the experimental configuration described in the manuscript and are required for accurate phase reconstruction.
+
+---
+
 ## References
 
 [1] Ortega Sanchez, Karina and Restrepo, René and Padilla Vivanco, Alfonso and Castaneda, Raul and Doblas, Ana and Trujillo, Carlos, Intricate Quantitative Phase Imaging Via Vortex-Legendre High-Order Phase Compensation. Available at SSRN: https://ssrn.com/abstract=5282404 or http://dx.doi.org/10.2139/ssrn.5282404
