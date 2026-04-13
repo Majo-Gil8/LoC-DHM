@@ -16,12 +16,16 @@ The data support the validation of the LoC platform for quantitative phase imagi
 
 ## Repository Structure
 
-- LoC_CAD  
-- LoC_CAlbicans  
-- LoC_RBC  
-- Tracking  
+- **LoC_CAD**: SolidWorks design files (.SLDPRT) of the Lab-on-a-Chip (LoC) devices used for fabrication. These files correspond to the microfluidic geometries that were 3D-printed and replicated in PDMS.
 
-Each folder in this repository contains the digital holograms corresponding to the different experimental sections presented in the manuscript. These datasets were used to perform the analyses reported in the paper, including background phase characterization, biological sample evaluation, and particle tracking.
+- **LoC_CAlbicans**: Digital holograms of *C. albicans* suspensions used for cell quantification experiments.
+
+- **LoC_RBC**: Digital holograms of red blood cells (RBCs) used for quantitative phase validation and statistical analysis (TOST).
+
+- **Tracking**: Holographic sequences of magnetic micro-composites used for 3D particle tracking under microfluidic flow.
+
+
+The datasets were used to perform the analyses reported in the manuscript, including background phase characterization, biological sample evaluation, and particle tracking.
 
 Specifically:
 
