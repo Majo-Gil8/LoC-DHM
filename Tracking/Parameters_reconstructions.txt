@@ -2,12 +2,9 @@ Parámetros de reconstrucción:
 
 633nm
 3.75 um
+MO= 40x
 
-Distancias de enfoque (en plano objeto) para reconstrucciones con Vortex-Legendre:
-(Todas las distancias están en micras)
-
-
-Particula 1_: frames 100-109
+Particle 1_: frames 100-109
 100:-6.3
 101:-8.76
 102:-3.07
@@ -19,7 +16,7 @@ Particula 1_: frames 100-109
 108:-4.93
 109:-5.86
 
-Particula 2_:(743-752)
+Particle 2_:(743-752)
 743:-2.25
 744:-3.6
 745:-5
@@ -31,7 +28,7 @@ Particula 2_:(743-752)
 751:-3.44
 752:-2.96
 
-Particula 3_: (530-549)
+Particle 3_: (530-549)
 530:-0.6
 531:-0.72
 532:-0.72
